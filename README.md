@@ -1,4 +1,4 @@
-# Vietnam time use visualization 
+# Vietnam time use visualization (Python)
 
 ## Introduction 
 Here is my python source code for visualizing how Vietnamese people spend their time:
